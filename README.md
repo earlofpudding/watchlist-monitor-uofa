@@ -4,6 +4,8 @@
 
 This is a script to fetch your watchlist and email you whenever there is an opening on BearTracks. 
 
+There is some settings in it to enroll you, but you would have to modify that code block to make it work
+
 The script is written using the [*Requests*](http://docs.python-requests.org/en/master/) and [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/) libraries for Python.
 
 The script can be set to run via cron or a task scheduler on an internal or external station.
