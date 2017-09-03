@@ -4,10 +4,6 @@ from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# 
-# Written By Rafaq, me@rafaq.ca
-# 
-
 ###################################
 CCID = "CCID"
 CCPass = "CCPASS"
