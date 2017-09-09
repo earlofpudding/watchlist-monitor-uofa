@@ -192,7 +192,7 @@ while i < l:
         msg['To'] = email
 
         mail.send_message(msg)
-        msg['To'] = "rafaqali@gmail.com"
+        msg['To'] = email
         mail.send_message(msg)
         mail.quit()
 
